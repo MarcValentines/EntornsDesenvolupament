@@ -1,2 +1,3 @@
 module DepuracioDeCodi {
+	exports SimpleBackingSystem;
 }
